@@ -23,7 +23,7 @@ export default defineAppConfig({
     },
 
     main: {
-      padded: false,
+      padded: true,
       fluid: false
     },
 
