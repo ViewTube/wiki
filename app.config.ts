@@ -5,13 +5,7 @@ export default defineAppConfig({
     image: '/viewtube_cover.png',
 
     socials: {
-      twitter: '',
-      github: 'viewtube/viewtube',
-      nuxt: {
-        label: 'Nuxt',
-        icon: 'simple-icons:nuxtdotjs',
-        href: 'https://nuxt.com'
-      }
+      github: 'viewtube/viewtube'
     },
 
     github: {
