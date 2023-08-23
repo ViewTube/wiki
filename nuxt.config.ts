@@ -24,10 +24,5 @@ export default defineNuxtConfig({
 
   css: ["@/assets/fonts/expletus.css"],
 
-  modules: [
-    // https://github.com/nuxt-modules/plausible
-    "@nuxtjs/plausible",
-    // https://github.com/nuxt/devtools
-    "@nuxt/devtools"
-  ]
+  modules: ["@nuxt/devtools"]
 });
