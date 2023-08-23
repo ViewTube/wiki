@@ -1,7 +1,7 @@
 export default defineAppConfig({
   docus: {
     title: 'ViewTube Wiki',
-    description: 'The open source, privacy-conscious way to enjoy your favorite YouTube content. ',
+    description: 'The open source, privacy-conscious way to enjoy your favorite YouTube content.',
     image: '/viewtube_cover.png',
 
     socials: {
