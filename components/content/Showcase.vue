@@ -5,12 +5,12 @@ const titleWidth = () => `${Math.floor(40 + Math.random() * (100 - 40 + 1))}%`;
 <template>
   <div>
     <div class="showcase">
-      <div class="video" v-for="i in 6" :key="i">
+      <div v-for="i in 6" :key="i" class="video">
         <div class="image-outer">
           <div class="image" />
         </div>
         <div class="title-outer">
-          <div class="title" :style="{ width: titleWidth() }" />
+          <div class="title" />
         </div>
       </div>
     </div>
@@ -18,6 +18,7 @@ const titleWidth = () => `${Math.floor(40 + Math.random() * (100 - 40 + 1))}%`;
 </template>
 
 <style lang="scss" scoped>
+$bgcolor: var(--docus-body-backgroundColor);
 .showcase {
   background-image: linear-gradient(45deg, #000000e8 0%, #00000000 60%),
     radial-gradient(
@@ -49,7 +50,7 @@ const titleWidth = () => `${Math.floor(40 + Math.random() * (100 - 40 + 1))}%`;
       .image {
         height: 100%;
         width: 100%;
-        box-shadow: 0 0 0 50px #0c0c0d;
+        box-shadow: 0 0 0 50px $bgcolor;
         border-radius: 8px;
       }
     }
@@ -62,7 +63,8 @@ const titleWidth = () => `${Math.floor(40 + Math.random() * (100 - 40 + 1))}%`;
 
       .title {
         height: 100%;
-        box-shadow: 0 0 0 200px #0c0c0d;
+        width: v-bind(titleWidth);
+        box-shadow: 0 0 0 200px $bgcolor;
         border-radius: 8px;
       }
     }

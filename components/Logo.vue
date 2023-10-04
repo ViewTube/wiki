@@ -25,7 +25,7 @@
   .logo-text {
     font-family: "expletus-bold", "Open Sans", sans-serif;
     font-size: 1.5rem;
-    color: #d2d2d2;
+    color: var(--elements-text-secondary-color-hover);
 
     .colored {
       color: transparent;
@@ -40,7 +40,7 @@
     }
 
     .lighter {
-      color: #ebebeb;
+      color: var(--elements-text-primary-color-static);
       margin: 0 0 0 0.5rem;
     }
   }
