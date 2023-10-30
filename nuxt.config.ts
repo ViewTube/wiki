@@ -24,5 +24,5 @@ export default defineNuxtConfig({
 
   css: ["@/assets/fonts/expletus.css"],
 
-  modules: ["@nuxt/devtools"]
+  modules: ["@nuxt/devtools", "@nuxthq/studio"]
 });
