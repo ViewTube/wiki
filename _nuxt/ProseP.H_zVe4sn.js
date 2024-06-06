@@ -1,1 +1,0 @@
-import{k as n,b as t,c,$ as o}from"./entry.cyRmoogH.js";const r={};function s(e,_){return t(),c("p",null,[o(e.$slots,"default",{},void 0,!0)])}const d=n(r,[["render",s],["__scopeId","data-v-e6cf4400"]]);export{d as default};
