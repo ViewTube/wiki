@@ -1,1 +1,0 @@
-import{l as t,c as n,e as o,a0 as r}from"./BuxVkPpf.js";const c={};function a(e,s){return n(),o("tr",null,[r(e.$slots,"default",{},void 0,!0)])}const d=t(c,[["render",a],["__scopeId","data-v-8817fd82"]]);export{d as default};
