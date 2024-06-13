@@ -1,0 +1,1 @@
+import{l as t,c as o,e as s,a0 as a}from"./Vf49H5is.js";const r={},c={class:"preview-layout"};function n(e,d){return o(),s("div",c,[a(e.$slots,"default",{},void 0,!0)])}const l=t(r,[["render",n],["__scopeId","data-v-6d38465d"]]);export{l as default};
