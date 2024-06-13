@@ -1,1 +1,0 @@
-import{l as c,c as r,e as t,a0 as n}from"./Vf49H5is.js";const o={};function s(e,a){return r(),t("ul",null,[n(e.$slots,"default",{},void 0,!0)])}const f=c(o,[["render",s],["__scopeId","data-v-83f9cfc8"]]);export{f as default};
