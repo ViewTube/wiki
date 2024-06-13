@@ -1,0 +1,1 @@
+import{l as t,c as a,e as o,a0 as s}from"./BuxVkPpf.js";const r={},c={class:"preview-layout"};function n(e,d){return a(),o("div",c,[s(e.$slots,"default",{},void 0,!0)])}const l=t(r,[["render",n],["__scopeId","data-v-8b51523a"]]);export{l as default};

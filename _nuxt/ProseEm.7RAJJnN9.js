@@ -1,1 +1,0 @@
-import{k as r,b as t,c as n,$ as o}from"./entry.5pyHvxD0.js";const s={};function c(e,a){return t(),n("em",null,[o(e.$slots,"default",{},void 0,!0)])}const l=r(s,[["render",c],["__scopeId","data-v-28921d73"]]);export{l as default};
