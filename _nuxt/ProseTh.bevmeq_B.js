@@ -1,1 +1,0 @@
-import{k as t,b as n,c as o,$ as c}from"./entry.SdekXXGA.js";const r={};function a(e,s){return n(),o("th",null,[c(e.$slots,"default",{},void 0,!0)])}const d=t(r,[["render",a],["__scopeId","data-v-a8314554"]]);export{d as default};
