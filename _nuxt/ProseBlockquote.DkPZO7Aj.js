@@ -1,1 +1,0 @@
-import{k as o,b as t,c,$ as r}from"./entry.DLYSTWzn.js";const n={};function s(e,a){return t(),c("blockquote",null,[r(e.$slots,"default",{},void 0,!0)])}const d=o(n,[["render",s],["__scopeId","data-v-cea58d85"]]);export{d as default};

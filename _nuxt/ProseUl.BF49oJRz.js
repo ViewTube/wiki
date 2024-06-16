@@ -1,1 +1,0 @@
-import{k as r,b as t,c as n,$ as o}from"./entry.DLYSTWzn.js";const s={};function a(e,c){return t(),n("ul",null,[o(e.$slots,"default",{},void 0,!0)])}const d=r(s,[["render",a],["__scopeId","data-v-a369268b"]]);export{d as default};
