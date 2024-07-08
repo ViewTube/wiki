@@ -1,5 +1,6 @@
 ---
 title: Get started
+order: 1
 ---
 
 # Using ViewTube

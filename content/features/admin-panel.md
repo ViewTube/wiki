@@ -1,3 +1,7 @@
+---
+order: 4
+---
+
 # Admin Panel
 
 Visit the admin panel by clicking on your profile image and selecting "Admin panel".

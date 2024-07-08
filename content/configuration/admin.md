@@ -1,3 +1,7 @@
+---
+order: 3
+---
+
 # Admin account
 
 ## Configure the admin

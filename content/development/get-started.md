@@ -1,5 +1,6 @@
 ---
-title: Get started
+title: Getting started
+order: 1
 ---
 
 # Get started with development
@@ -12,6 +13,6 @@ I personally develop on Windows and Linux. If you find that the development setu
 For development, you need the following tools installed.
 
 - Node.js 20.11.x
-- pnpm >=8.15.x
+- pnpm >=9.5.0
 
 Of course, the basics like a text editor, git and a terminal are also required.

@@ -1,5 +1,6 @@
 ---
 title: Advanced
+order: 2
 ---
 
 # Advanced configuration

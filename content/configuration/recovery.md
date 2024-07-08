@@ -1,3 +1,7 @@
+---
+order: 4
+---
+
 # Recovery
 This page is a collection of remedies for issues that can occur with ViewTube.
 

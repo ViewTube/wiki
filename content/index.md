@@ -1,12 +1,14 @@
 ---
 title: Documentation
 navigation: false
-layout: page
+layout: home
 main:
   fluid: false
 ---
 
-::block-hero
+[view docs](/about/get-started)
+
+<!-- ::block-hero -->
 ---
 cta:
   - View Documentation
@@ -24,4 +26,4 @@ ViewTube is an alternative YouTube frontend that lets you watch, search and disc
 #support
   :::showcase
   :::
-::
+<!-- :: -->

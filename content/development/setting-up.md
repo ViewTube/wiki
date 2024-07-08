@@ -1,5 +1,6 @@
 ---
 title: 'Setting up'
+order: 2
 ---
 
 ## Clone the repository
